@@ -1,5 +1,5 @@
 .catalog:
-  name: Kafka
+  name: M17-Kafka
   version: 0.10.0.0-rancher1
   description: |
     (Experimental) Apache Kafka cluster.
